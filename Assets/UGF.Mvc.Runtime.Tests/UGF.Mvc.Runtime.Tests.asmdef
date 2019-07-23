@@ -1,0 +1,17 @@
+{
+    "name": "UGF.Mvc.Runtime.Tests",
+    "references": [
+        "GUID:0a1d374b85fdc834a96bf974bf3565dc"
+    ],
+    "optionalUnityReferences": [
+        "TestAssemblies"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": []
+}
