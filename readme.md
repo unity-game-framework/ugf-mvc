@@ -4,14 +4,13 @@ UGF.Mvc
 
 ## Info
 
-- **Version**: `1.0.0-preview`
-- **Unity Version**: `2019.1.0`
-- **Scripting Runtime Version**: `.NET 4.x Equivalent`
+- **Version**: `1.1.0-preview`
+- **Unity Version**: `2019.3.0`
 - **Api Compatibility Level**: `.NET Standard 2.0`
 
 ### Dependencies
 
-- [UGF.Initialize](https://github.com/unity-game-framework/ugf-initialize): `1.0.0-preview`
+- [UGF.Initialize](https://github.com/unity-game-framework/ugf-initialize): `1.2.0`
 
 ### Changelog
 
